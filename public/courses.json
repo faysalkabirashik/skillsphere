@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Web Development Bootcamp",
+    "instructor": "John Doe",
+    "duration": "20 hours",
+    "rating": 4.8,
+    "level": "Beginner",
+    "description": "Learn full-stack web development from scratch.",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "category": "Development"
+  },
+  {
+    "id": 2,
+    "title": "UI/UX Design Masterclass",
+    "instructor": "Sarah Smith",
+    "duration": "15 hours",
+    "rating": 4.7,
+    "level": "Intermediate",
+    "description": "Master UI/UX design principles.",
+    "image": "https://images.unsplash.com/photo-1559028012-481c04fa702d",
+    "category": "Design"
+  },
+  {
+    "id": 3,
+    "title": "React JS Advanced Guide",
+    "instructor": "David Lee",
+    "duration": "18 hours",
+    "rating": 4.9,
+    "level": "Advanced",
+    "description": "Deep dive into React.",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee",
+    "category": "Development"
+  },
+  {
+    "id": 4,
+    "title": "Digital Marketing Essentials",
+    "instructor": "Emma Watson",
+    "duration": "12 hours",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f"
+  },
+  {
+    "id": 5,
+    "title": "Python for Beginners",
+    "instructor": "Michael Chen",
+    "duration": "25 hours",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475"
+  },
+  {
+    "id": 6,
+    "title": "Graphic Design Basics",
+    "instructor": "Lisa Ray",
+    "duration": "10 hours",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1504805572947-34fad45aed93"
+  },
+  {
+    "id": 7,
+    "title": "Node.js Backend Development",
+    "instructor": "Alex Brown",
+    "duration": "22 hours",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c"
+  },
+  {
+    "id": 8,
+    "title": "Data Structures & Algorithms",
+    "instructor": "Sophia Kim",
+    "duration": "30 hours",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4"
+  },
+  {
+    "id": 9,
+    "title": "Mobile App Development",
+    "instructor": "Chris Evans",
+    "duration": "28 hours",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+  }
+]
