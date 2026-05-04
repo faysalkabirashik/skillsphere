@@ -87,7 +87,7 @@ lib/
 ## ▶️ How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/skillsphere.git
+git clone https://github.com/faysalkabirashik/skillsphere.git
 cd skillsphere
 npm install
 npm run dev
