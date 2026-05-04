@@ -45,7 +45,7 @@ This project was developed as part of a course assignment, focusing on **UI desi
 ### 🔐 Authentication (Simple)
 
 * Login & Register pages
-* LocalStorage-based authentication
+* Better auth authentication
 * Protected routes (Course Details & Profile)
 
 ### 👤 Profile
